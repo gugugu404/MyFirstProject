@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T05:00:27.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ZyUmD2cntVBBDXIMi6Ek" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T05:19:23.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="YmLoIpRPjV491cbHNOac" version="18.0.3" type="github">
   <diagram id="yrZ0TUj1zFnWh_mmePSf" name="Page-1">
     <mxGraphModel dx="1038" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
         <mxCell id="pm_jy4TW70TRtNKsfChT-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pm_jy4TW70TRtNKsfChT-44" target="pm_jy4TW70TRtNKsfChT-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pm_jy4TW70TRtNKsfChT-44" value="选择团元存储类型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="pm_jy4TW70TRtNKsfChT-44" value="选择图元存储类型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="369" y="817" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pm_jy4TW70TRtNKsfChT-49" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
