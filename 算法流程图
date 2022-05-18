@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T16:18:29.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="18.0.5" etag="qBHeXY9wU7P1VmG0aqe-" type="github"><diagram id="l5wyPwKDjfRHxdPF5RUP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-18T11:37:02.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="92usa0XRRD0vEpHyrAMC" version="18.0.6" type="github">
+  <diagram id="l5wyPwKDjfRHxdPF5RUP" name="Page-1">
+    <mxGraphModel dx="880" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J0xGzP9WwV-BkjMi0Cni-1" target="J0xGzP9WwV-BkjMi0Cni-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314" y="40" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J0xGzP9WwV-BkjMi0Cni-2" target="J0xGzP9WwV-BkjMi0Cni-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-2" value="对矿震数据分组并确定核心组和边缘组" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314" y="180" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J0xGzP9WwV-BkjMi0Cni-3" target="J0xGzP9WwV-BkjMi0Cni-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-3" value="合并核心组并确定&lt;br&gt;簇类中心" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314" y="250" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J0xGzP9WwV-BkjMi0Cni-4" target="J0xGzP9WwV-BkjMi0Cni-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-4" value="合并边缘组并确定&lt;br&gt;噪声点" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J0xGzP9WwV-BkjMi0Cni-5" target="J0xGzP9WwV-BkjMi0Cni-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-5" value="计算截断距离" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314" y="110" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J0xGzP9WwV-BkjMi0Cni-6" target="J0xGzP9WwV-BkjMi0Cni-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-6" value="根据仿真测试点&lt;br&gt;分散聚类能量" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="110" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J0xGzP9WwV-BkjMi0Cni-17" target="J0xGzP9WwV-BkjMi0Cni-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-17" value="绘制日期能量变化曲线" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="180" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J0xGzP9WwV-BkjMi0Cni-18" value="结束" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="126" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
